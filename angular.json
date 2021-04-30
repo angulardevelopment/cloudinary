@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "cloudinary"
+  "defaultProject": "cloudinary",
+  "cli": {
+    "analytics": "4e9c7bfc-a8ee-42e8-a6db-a56e01fc3a51"
+  }
 }

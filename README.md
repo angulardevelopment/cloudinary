@@ -1,3 +1,18 @@
+# About
+
+dependencies used- cloudinary-core, @cloudinary/angular-5.x, ng2-file-upload
+
+Replace demo in all the following examples with your Cloudinary's cloud name to access images-
+
+http://res.cloudinary.com/demo/image/upload/sample.jpg
+
+http://res.cloudinary.com/demo/image/upload/w_150,h_100,c_fill/sample.jpg
+
+Converting to a 150x100 PNG with rounded corners of 20 pixels:
+
+http://res.cloudinary.com/demo/image/upload/w_150,h_100,c_fill,r_20/sample.png
+
+http://res.cloudinary.com/demo/image/facebook/c_thumb,g_face,h_90,w_120/billclinton.jpg
 # Cloudinary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
